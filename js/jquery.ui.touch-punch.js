@@ -1,3 +1,8 @@
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +19,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-BmnGTzITfSCD9SKlVfngZdzNq8Fa33lRq00rF1eRsg4zcCH3VtX8QtS6687+5GdeaVj1LzKyLj6+oXJLcswj6w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-0669c64f32137d2083f522a555f9e065.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-szNSCYabweiw+5n3FePq60guonNVWfe21Lxl/Bti25Y++yrwVqGCY6FOnYyLAuxaH+eHUIspJ+lDWIFAnZssEw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-b3335209869bc1e8b0fb99f715e3eaeb.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-0IGYt6nc+cz/zU4CV44Lb8IcwmWQlYmSAHsCzOtlyo8lLyvQz1jNirl1Ld8CbxalQ5fCiFufvxPm5RLVW+Mo4Q==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d08198b7a9dcf9ccffcd4e02578e0b6f.css" />
     
     
     
@@ -33,10 +38,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/35775?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="furf/jquery-ui-touch-punch" /><meta property="og:url" content="https://github.com/furf/jquery-ui-touch-punch" /><meta property="og:description" content="A duck punch for adding touch events to jQuery UI. Contribute to furf/jquery-ui-touch-punch development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTQ0ODA4NjgxOjBmZjBlNjViNDI5ZTI2MjlmYTdmNDgxYTgxMzJlMDc2ZTExMjdiYmQxMzE5YTkxMGU2YmFhZjI5NTRjOWIwOGQ=--25c5dde4475290d9ef78c85ea2fba4215b8a1689">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTQ0ODA4NjgxOjRjZjg0YzcxMTMwZDJhYzMwYzczOWMxNjAxNGFjZTRkYzdhNmYwMWNlOGYwNTZlZGEyZTc1MzUxZDUxNDBiM2Q=--f03cf044d8821e90b175faff038df72d0c113e5f">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F3AE:32D0:F13633:146C932:5EE131AE" data-pjax-transient="true" /><meta name="html-safe-nonce" content="6ff4dddb0b0f7126f0d4e1450df5c44e604c4a2f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mdXJmL2pxdWVyeS11aS10b3VjaC1wdW5jaCIsInJlcXVlc3RfaWQiOiJGM0FFOjMyRDA6RjEzNjMzOjE0NkM5MzI6NUVFMTMxQUUiLCJ2aXNpdG9yX2lkIjoiMjM4MTI2MTM4NjY4NzMyMDAyMSIsInJlZ2lvbl9lZGdlIjoiYXAtbm9ydGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="a23d060b20a4f7ab217d73e763cfe1ce5595ce04a889cf944fe1153439107cf3" data-pjax-transient="true" />
+  <meta name="request-id" content="FE7B:28B8:275883:35D2AF:5EE14733" data-pjax-transient="true" /><meta name="html-safe-nonce" content="6ff4dddb0b0f7126f0d4e1450df5c44e604c4a2f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mdXJmL2pxdWVyeS11aS10b3VjaC1wdW5jaCIsInJlcXVlc3RfaWQiOiJGRTdCOjI4Qjg6Mjc1ODgzOjM1RDJBRjo1RUUxNDczMyIsInZpc2l0b3JfaWQiOiIyMzgxMjYxMzg2Njg3MzIwMDIxIiwicmVnaW9uX2VkZ2UiOiJhcC1ub3J0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="02dbf5f4befc9ced1d1643c875b8b16b26b1a38e96a684379584de8c0d494199" data-pjax-transient="true" />
 
 
 
@@ -75,11 +80,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZTc0NTA4YjkyZDQyYTE0YjhhN2Q1MjQxM2IzMDc4MWZmYzQ3MmQ4MWRkM2QxNTM1NmJlZDdiYTNhNWRjNThmYnx7InJlbW90ZV9hZGRyZXNzIjoiMTQzLjE4OS45Ni4yMTgiLCJyZXF1ZXN0X2lkIjoiRjNBRTozMkQwOkYxMzYzMzoxNDZDOTMyOjVFRTEzMUFFIiwidGltZXN0YW1wIjoxNTkxODE2NjI1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="N2M3NDgxM2RhNGYwMWNmOTY3YzlhMmVhNzA1N2ZlNTVkODNjZTI1NmQ2MzMxOTM2YzNiYTM3NjdmMzRkNDk4OXx7InJlbW90ZV9hZGRyZXNzIjoiMTQzLjE4OS45Ni4yMTgiLCJyZXF1ZXN0X2lkIjoiRkU3QjoyOEI4OjI3NTg4MzozNUQyQUY6NUVFMTQ3MzMiLCJ0aW1lc3RhbXAiOjE1OTE4MjIxMzcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,PAGE_STALE_CHECK">
 
-  <meta http-equiv="x-pjax-version" content="1dfd856078162cab7c4703ebd4127a9b">
+  <meta http-equiv="x-pjax-version" content="a8cb16a75e33142dcb26db12a795343e">
   
 
       <link href="https://github.com/furf/jquery-ui-touch-punch/commits/master.atom" rel="alternate" title="Recent Commits to jquery-ui-touch-punch:master" type="application/atom+xml">
@@ -163,7 +168,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="+Pk1guOJcCx0/3CzFFWGjX2cH1KFOcygMFLmPsnfQHkqH6weGG2+OWy6PCapzDzUZODpJD0pg+WjxIbjcnoQ3A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="kXtmMlmzO4CjdArWcCWmOQlJZPEvolZEJklcY91ZwGBDnf+uolf1lbsxRkPNvBxgEDWSh5eyGQG13zy+ZvyQxQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -314,7 +319,7 @@
       <img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/66681503?s=40&amp;v=4" width="20" height="20" alt="@assamteactc" />
       assamteactc
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="odhU7gwT8IuAztkkQbzw43tWT/BHlI5p7FXWr3o456hOy0cv9lUiNMMr8N8Bn7BJGU58euqwQulYOOFbXtKGaA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AYQ8Mt04MnyzRfuL9ullB/f3m46BvRjPtoYMgwDzadXuly/zJ37gw/Cg0nC2yiWtle+oBCyZ1E8C6zt3JBkIFQ==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -438,7 +443,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Hfv9C4N+1u8Dn9nYlPyILOj2gbLbVZBIqfCqEBzI7wLxGOIRcz++DCkETqVMy+h5cMHr6xjWA5l9lYEDPd9B/A==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="vZaleJUOD1eU4EKbDUqVYXW8rq1NIiGAnP3xW+uQyU5RdbpiZU9ntL571ebVffU07YvE9I6hslFImNpIyodnsA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -556,17 +561,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-06-11T04:47:05+09:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-06-11T06:18:57+09:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-06-11T05:17:05+09:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-06-11T06:48:57+09:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-06-11T08:17:05+09:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-06-11T09:48:57+09:00">
             in 4 hours
           </button>
         </li>
@@ -637,12 +642,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="doYoFjnnHW5eXW2AEgwm5yrTNzViijL54pZcN2h9HVGZlTvXw6HP0R24RHtSL2ZNSMsEv8+u/nlW+2vDTJd8kQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tWwLt8/RC1D6CHFKTK/J2HZHRwrtWuea9gv8unDQiupafxh2NZfZ77ntWLEMjIlyFF90gEB+KxpCZstOVDrrKg==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_ba7a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1591816625421" class="form-control" /><input type="hidden" name="timestamp_secret" value="25c98573155fc8e9cb10617238a5657e33c3920061dbcfade109f5683477d950" class="form-control" />
+      <input type="text" name="required_field_2496" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1591822137767" class="form-control" /><input type="hidden" name="timestamp_secret" value="08253239a0446b35e6d10b31cf46f2fadf0afb723af96f24a4ca0bcc49425752" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -701,7 +706,7 @@
       </p>
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="1c50d08142f367b8564ec3ebee15b1299199d2d4d2f98b44fc903ff1793a1125" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="123RAiqlk+YAcTVXoAvd3AQYre+U7vnRjcSdz+co89qKhkrXZ+/iVSnKC7xlLZ06kxb0WfGyNR5bZNpLOecVaw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="eBA+AF+ykWnKqqmbDP9uOdLUhBZD9PksJC9kE1lTBTwl+6XVEvjg2uMRl3DJ2S7fRdrdoCaoNePyjyOXh5zjjQ==" />
       <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="076c68b77d0ce129cf03757107b4ec4040840fd8eec20c699f531a73cc6bf73a">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
@@ -747,7 +752,7 @@
   <li>
     
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container clearfix" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h8+Jr6wbdB0UOifOZEVB3z7cAENPpMEV+KQ+cjrf82P3km7JbEWphilzJWFHrFVDox2dKRs+429pEpdmHOu5RQ==" />      <input type="hidden" name="repository_id" value="1030566">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container clearfix" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qZgmiF+G/5AlY5+lzU98ZSxi/dWhjeHLFQICriAYwirZxcHun9giCxgqnQrupmj5saNgv/UXw7GEtKu6BiyIDA==" />      <input type="hidden" name="repository_id" value="1030566">
 
       <details class="details-reset details-overlay select-menu float-left" >
         <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="4a5c1a8c5fd75ce4d731ab240d4adfd9f4dcada1678e3dfbe4affde827f5ed82" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -829,7 +834,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/furf/jquery-ui-touch-punch/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x8KGDHPk95xLXyTeceWiJTgQP0vK/aZ8n0x3LzYsy8EO4vtDUSiv+HFHkIv+d5AOfNNdj5LBwz7wyPzNEgaElA==" />
+    <form class="starred js-social-form" action="/furf/jquery-ui-touch-punch/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BpZiBqtPnq4fgAzIwhPdxwZLQ1plPRvVIfljnUDpq9HPth9JiYPGyiWYuJ1Nge/sQoghnj0BfpdOfeh/ZMPkhA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar furf/jquery-ui-touch-punch" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="13814a2579a25ed07bf53b613279c8688102e339e513dd0adcd2d92aa9bf94a7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
 
@@ -839,7 +844,7 @@
            3.4k
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/furf/jquery-ui-touch-punch/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xunVEN0tWns8VlbWa4XLCk4YoJnSmDi5je8UCQ1jH7l669hh3zRs+pfwy2wXuQq3L62Vcsdi9F+0Xe91u1QW5Q==" />
+    <form class="unstarred js-social-form" action="/furf/jquery-ui-touch-punch/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mK6r0YiBj4YHwycSQRtgckmUH66JI7bRBswaXeDBq8kkrKagipi5B6xluqg9J6HPKCEqRZzZejc/fuEhVvailQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star furf/jquery-ui-touch-punch" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="6333ad1251250787918a1a8292df808cc11a3914384594769f54757937e27eed" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
 
@@ -853,7 +858,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/furf/jquery-ui-touch-punch/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cbn1cTUn8d/o9QEC8M1AmikqC+RPHLLXywBz9tENPU7qsxX+d3ryDqgI5YDGIPqxFV7wcafCGAGPlBKTtDXuPg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/furf/jquery-ui-touch-punch/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XLfLKd7z5gT68Cj0dfLxSCe4cHYpfB1RZhjz6DhRDNDHvSumnK7l1boNzHZDH0tjG8yL48Git4cijJKNXWnfoA==" />
             <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:1030566,&quot;originating_url&quot;:&quot;https://github.com/furf/jquery-ui-touch-punch/blob/master/jquery.ui.touch-punch.js&quot;,&quot;user_id&quot;:66681503}}" data-hydro-click-hmac="a8d39bf6eeb2e3cd92f67dd722c78311d419f0c40836fc9fddfe2e220313f5ef" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of furf/jquery-ui-touch-punch to your account" aria-label="Fork your own copy of furf/jquery-ui-touch-punch to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
               Fork
 </button></form>
@@ -1144,13 +1149,13 @@ https://github.com/furf/jquery-ui-touch-punch/issues/124" class="link-gray" href
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/furf/jquery-ui-touch-punch/edit/master/jquery.ui.touch-punch.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NzmYiZ/22du2lRSFdSFlbNwNQukV8qNn/YXhD6k08Lv/f6HQvP1uAE9sIfq1xBPsO/QemVFGwmEFGsfA1jdNdg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/furf/jquery-ui-touch-punch/edit/master/jquery.ui.touch-punch.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3Qxsl7nCqtteKSzjbJh/FPI2a/XXaHDWJQp2o/bPdtcVSlXOmskdAKfQGZysfQmUFc83hZPcEdDdlVBsiczLGg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/furf/jquery-ui-touch-punch/delete/master/jquery.ui.touch-punch.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="n4StPvfVHXuyW2Z8j6X++AJXjKvVSWg3PxBpjeJOPYf72fqYRWbbDB2ElmaqQx21anvCdpayW+5/TL44vpyrqw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/furf/jquery-ui-touch-punch/delete/master/jquery.ui.touch-punch.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="97tMZrhPa6w/VaRgSV9vJLKf/fM0n9YRHUFUOkFyNE2T5hvACvyt25CKVHpsuYxp2rOzLndk5chdHYOPHaCiYQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -2016,7 +2021,7 @@ https://github.com/furf/jquery-ui-touch-punch/issues/124" class="link-gray" href
     <script crossorigin="anonymous" async="async" integrity="sha512-h/xCW7vI38G2h1Hr0nLBGFgUq5RSdWzdoUfEqKxVslbsVx9k3vdwkHQPUGRI+2RnIwHiLjWCpkJRm0GyIzIwFA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-87fc425b.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-YAej83ikXSzOu18Y/10VPeKXMyVIJIFTc8h4ZJO+q0GQYefYQUO3WnyTeevbpNDijefJvDgi87QkGOwKLGJ2YA==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-6007a3f3.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-hSzgr1a8KqOYyfNaoXWSI7eM2VD8E+eKDGOxblWud+8a6lniUD+68Y4FwOkp3EEPa8Q0UD1XJmOIUawdz6kjSQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-852ce0af.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-3LAxF4uJ1AzoQQX8Yt1Xo0DpwV+WmyyU2fQ1UdGYNXpDPk7sb7rFfG3XKRgnmuCmys7pyKg+sYib5ZxgfbbOzw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-dcb03117.js"></script>
     
       <script crossorigin="anonymous" async="async" integrity="sha512-4GcSWGoe36+BoWho4gtJcByZe8j43w+lt2/PDe3rmBxRVSgD29YipDwuIywe8fvOd2b2CszBqaPGxSznUtE3Xg==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-e0671258.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
